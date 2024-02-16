@@ -2,6 +2,6 @@
 
 ## workflows
 
-Agenda- Text to SQL LLM Application
+### Agenda- Text to SQL LLM Application
 
-# prompt ---> LLM ---> Gemini pro ---> Query ---> SQL Database ---> Response
+### prompt ---> LLM ---> Gemini pro ---> Query ---> SQL Database ---> Response
